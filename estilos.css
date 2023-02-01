@@ -157,7 +157,7 @@ body {
 /********************************************************************************/
 
 main {
-    background-image: url(./Imagenes/Fondo-1.png);
+    background-image: url(Imagenes/Fondo-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0px;
